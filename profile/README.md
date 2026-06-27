@@ -44,8 +44,6 @@ We believe that memorable games don't need massive budgets—they need passion, 
 
 ## 📫 Contato
 
-- xii1kingwp@gmail.com
-
 ---
 
 <p align="center">
