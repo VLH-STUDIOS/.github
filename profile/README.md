@@ -4,7 +4,7 @@
 
 *"Fazendo mundos inesquecíveis."*
 
-<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner" weight: 300px; height: auto;>
+<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner" "weight: 300px" "height: auto">
 
 ---
 
