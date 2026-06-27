@@ -4,8 +4,7 @@
 
 *"Fazendo mundos inesquecíveis."*
 
-<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner" "weight: 300px" "height: auto">
-
+<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner">
 ---
 
 Um pequeno estúdio de jogos independente focado em criar experiências memoráveis ​​por meio de jogabilidade imersiva e histórias envolventes.
