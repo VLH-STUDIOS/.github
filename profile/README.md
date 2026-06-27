@@ -4,7 +4,7 @@
 
 *"Fazendo mundos inesquecíveis."*
 
-<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner" width="100%" id="img">
+<img src="assets/VLH Studios Banner.png" alt="VLH Studios Banner" weight: 300px; height: auto;>
 
 ---
 
@@ -55,10 +55,3 @@ Made with 💜 by <strong>VLH Studios</strong>
 </p>
 
 </div>
-
-<style>
-#img {
-  weight: 300px;
-  height: auto;
-}
-</style>
