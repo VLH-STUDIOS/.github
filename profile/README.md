@@ -20,11 +20,8 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 | Project | Status |
 |---------|--------|
 | Nemesis | 🟡 Planejamento |
-|---------|--------|
 | Journey of the Wanderer | 🟡 Planejamento |
-|---------|--------|
 | Paku | 🔵 Pré-Desenvolvimento |
-|---------|--------|
 
 ---
 
