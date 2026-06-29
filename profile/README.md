@@ -1,6 +1,6 @@
 <div align="center">
 
-# VLH Studios
+# L O T T U S - STUDIOS
 
 *"Fazendo mundos inesquecíveis."*
 
