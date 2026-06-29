@@ -27,12 +27,12 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 
 ## 🛠️ Tecnologias
 
-Unity
-C#
-Git & GitHub
-Blender
-Aseprite
-FMOD
+Unity  
+C#  
+Git & GitHub  
+Blender  
+Aseprite  
+FMOD  
 
 ---
 
