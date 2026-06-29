@@ -19,7 +19,12 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 
 | Project | Status |
 |---------|--------|
-| Nemesis | 🟣 In Development |
+| Nemesis | 🟡 Planejamento |
+|---------|--------|
+| Journey of the Wanderer | 🟡 Planejamento |
+|---------|--------|
+| Paku | 🔵 Pré-Desenvolvimento |
+|---------|--------|
 
 ---
 
@@ -38,7 +43,7 @@ Cada projeto é concebido com o objetivo de entregar algo único, seja um pequen
 
 > "Simple ideas, unforgettable experiences."
 
-We believe that memorable games don't need massive budgets—they need passion, attention to detail, and a clear artistic vision.
+Acreditamos que jogos memoráveis ​​não precisam de orçamentos gigantescos — eles precisam de paixão, atenção aos detalhes e uma visão artística clara.
 
 ---
 
@@ -47,7 +52,8 @@ We believe that memorable games don't need massive budgets—they need passion, 
 ---
 
 <p align="center">
-Made with 💜 by <strong>VLH Studios</strong>
+Feito com 💜 pela <strong>L O T T U S</strong>
 </p>
 
 </div>
+
