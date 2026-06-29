@@ -1,6 +1,6 @@
 <div align="center">
 
-# L O T T U S - STUDIOS
+# L O T T U S
 
 *"Fazendo mundos inesquecíveis."*
 
