@@ -38,7 +38,7 @@ FMOD
 
 ## Filosofia
 
-> "Simple ideas, unforgettable experiences."
+> "Ideias simples, experiências inesquecívies."
 
 Acreditamos que jogos memoráveis ​​não precisam de orçamentos gigantescos — eles precisam de paixão, atenção aos detalhes e uma visão artística clara.
 
